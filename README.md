@@ -1,3 +1,2 @@
-# Homework-For-Web-Development
-· The repository to store homework for web dev   
-· Nothing to say
+# Assignment-For-Web_Development
+· The repository to store assignments for web dev course  
